@@ -1,0 +1,2 @@
+# No dependencies: server.py uses only the Python standard library.
+# (This file lets hosting services like Railway/Render detect a Python app.)

@@ -1,0 +1,17 @@
+# ---- Live data & secrets: never commit ----
+# The live menu (edited through the panel; created from data/original-menu.json on first run)
+data/menu.json
+# Hashed admin password
+data/auth.json
+# Automatic backups
+data/backups/
+data/*.tmp
+.env
+
+# ---- System / editor files ----
+.DS_Store
+__pycache__/
+*.pyc
+.claude/
+.vscode/
+.idea/

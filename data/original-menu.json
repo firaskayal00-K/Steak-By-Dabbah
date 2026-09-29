@@ -1,0 +1,712 @@
+{
+  "restaurant": {
+    "name": "Steak by Dabbah",
+    "phone": "+97249922226",
+    "phoneDisplay": "04-992-2226",
+    "whatsapp": "https://wa.me/972509944494",
+    "instagram": "https://www.instagram.com/steak_by_dabbah",
+    "facebook": "https://www.facebook.com/steakbydabbah",
+    "mapsUrl": "https://maps.app.goo.gl/RkjFndTsA79KbA2MA?g_st=iwb",
+    "reviewsUrl": "https://maps.app.goo.gl/RkjFndTsA79KbA2MA?g_st=iwb",
+    "rating": 4.8,
+    "reviewCount": 250,
+    "currency": "₪"
+  },
+  "texts": {
+    "menu": {
+      "ar": "القائمة",
+      "he": "תפריט",
+      "en": "Menu"
+    },
+    "tagline": {
+      "ar": "لحوم فاخرة · نكهات جريئة",
+      "he": "בשרים משובחים · טעמים נועזים",
+      "en": "Great Steaks · Bold Flavors"
+    },
+    "taglineSub": {
+      "ar": "تجربة لا تُنسى",
+      "he": "חוויה בלתי נשכחת",
+      "en": "An unforgettable experience"
+    },
+    "search": {
+      "ar": "ابحث في القائمة",
+      "he": "חיפוש בתפריט",
+      "en": "Search the menu"
+    },
+    "searchOpen": {
+      "ar": "فتح البحث",
+      "he": "פתיחת חיפוש",
+      "en": "Open search"
+    },
+    "searchClose": {
+      "ar": "إغلاق البحث",
+      "he": "סגירת חיפוש",
+      "en": "Close search"
+    },
+    "clear": {
+      "ar": "مسح",
+      "he": "ניקוי",
+      "en": "Clear"
+    },
+    "all": {
+      "ar": "الكل",
+      "he": "הכל",
+      "en": "All"
+    },
+    "filters": {
+      "ar": "تصفية حسب النوع",
+      "he": "סינון לפי סוג",
+      "en": "Filter by course"
+    },
+    "resultsOne": {
+      "ar": "طبق واحد",
+      "he": "מנה אחת",
+      "en": "1 dish"
+    },
+    "resultsTwo": {
+      "ar": "طبقان",
+      "he": "שתי מנות",
+      "en": "2 dishes"
+    },
+    "resultsFew": {
+      "ar": "{n} أطباق",
+      "he": "{n} מנות",
+      "en": "{n} dishes"
+    },
+    "resultsMany": {
+      "ar": "{n} طبقاً",
+      "he": "{n} מנות",
+      "en": "{n} dishes"
+    },
+    "noResultsTitle": {
+      "ar": "لا توجد نتائج",
+      "he": "לא נמצאו תוצאות",
+      "en": "Nothing found"
+    },
+    "noResultsBody": {
+      "ar": "جرّب كلمة أخرى مثل «انتريكوت» أو «باستا»، أو تصفّح كل الأقسام.",
+      "he": "נסו מילה אחרת כמו ״אנטריקוט״ או ״פסטה״, או עברו על כל הקטגוריות.",
+      "en": "Try another word such as “entrecôte” or “pasta”, or browse every course."
+    },
+    "showAll": {
+      "ar": "عرض كل الأطباق",
+      "he": "הצגת כל המנות",
+      "en": "Show every dish"
+    },
+    "signature": {
+      "ar": "طبق مميّز",
+      "he": "מנת הדגל",
+      "en": "Signature"
+    },
+    "popular": {
+      "ar": "الأكثر طلباً",
+      "he": "הכי מבוקש",
+      "en": "Most loved"
+    },
+    "sharing": {
+      "ar": "للمشاركة",
+      "he": "למנה משותפת",
+      "en": "For sharing"
+    },
+    "reviewsTitle": {
+      "ar": "آراء ضيوفنا",
+      "he": "חוויות האורחים שלנו",
+      "en": "Guest experiences"
+    },
+    "reviewsCount": {
+      "ar": "أكثر من {n} تقييم",
+      "he": "מעל {n} ביקורות",
+      "en": "Based on {n}+ reviews"
+    },
+    "rate": {
+      "ar": "قيّم تجربتك",
+      "he": "דרגו את החוויה",
+      "en": "Rate your experience"
+    },
+    "call": {
+      "ar": "اتصال",
+      "he": "התקשרו",
+      "en": "Call"
+    },
+    "whatsapp": {
+      "ar": "واتساب",
+      "he": "וואטסאפ",
+      "en": "WhatsApp"
+    },
+    "directions": {
+      "ar": "الوصول",
+      "he": "ניווט",
+      "en": "Directions"
+    },
+    "top": {
+      "ar": "للأعلى",
+      "he": "למעלה",
+      "en": "Top"
+    },
+    "language": {
+      "ar": "اللغة",
+      "he": "שפה",
+      "en": "Language"
+    },
+    "instagram": {
+      "ar": "إنستغرام",
+      "he": "אינסטגרם",
+      "en": "Instagram"
+    },
+    "facebook": {
+      "ar": "فيسبوك",
+      "he": "פייסבוק",
+      "en": "Facebook"
+    },
+    "maps": {
+      "ar": "خرائط جوجل",
+      "he": "מפות גוגל",
+      "en": "Google Maps"
+    },
+    "skipIntro": {
+      "ar": "تخطّي",
+      "he": "דילוג",
+      "en": "Skip"
+    },
+    "hours": {
+      "ar": "ساعات العمل",
+      "he": "שעות פתיחה",
+      "en": "Opening hours"
+    },
+    "hoursDays": {
+      "ar": "من الأحد إلى السبت",
+      "he": "ראשון – שבת",
+      "en": "Sunday – Saturday"
+    },
+    "hoursTime": {
+      "ar": "12:00 – 23:00",
+      "he": "12:00 – 23:00",
+      "en": "12:00 PM – 11:00 PM"
+    },
+    "rights": {
+      "ar": "جميع الحقوق محفوظة",
+      "he": "כל הזכויות שמורות",
+      "en": "All rights reserved"
+    }
+  },
+  "categories": [
+    {
+      "id": "appetizers",
+      "name_ar": "المقبلات",
+      "name_en": "Appetizers",
+      "name_he": "מנות פתיחה",
+      "icon": "appetizer",
+      "visible": true,
+      "items": [
+        {
+          "id": "beef-carpaccio",
+          "name_ar": "كرباتشو فيليه",
+          "name_en": "Beef Fillet Carpaccio",
+          "name_he": "קרפצ’יו פילה בקר",
+          "price": 69,
+          "tag": "signature",
+          "visible": true
+        },
+        {
+          "id": "sausages",
+          "name_ar": "نقانق",
+          "name_en": "Sausages",
+          "name_he": "נקניקיות",
+          "price": 38,
+          "visible": true
+        },
+        {
+          "id": "kebab-arayes",
+          "name_ar": "عرايس كباب",
+          "name_en": "Kebab Arayes",
+          "name_he": "עראיס קבב",
+          "price": 38,
+          "tag": "popular",
+          "visible": true
+        },
+        {
+          "id": "fried-cheese",
+          "name_ar": "أصابع جبنة مقلية",
+          "name_en": "Fried Cheese Fingers",
+          "name_he": "אצבעות גבינה מטוגנות",
+          "price": 38,
+          "visible": true
+        },
+        {
+          "id": "fries",
+          "name_ar": "شيبس",
+          "name_en": "Fries",
+          "name_he": "צ’יפס",
+          "price": 15,
+          "visible": true
+        },
+        {
+          "id": "salad-selection",
+          "name_ar": "تشكيلة سلطات للشخص",
+          "name_en": "Salad Selection per Person",
+          "name_he": "מבחר סלטים לאדם",
+          "price": 35,
+          "visible": true
+        }
+      ]
+    },
+    {
+      "id": "grill",
+      "name_ar": "الأطباق الرئيسية / المشاوي",
+      "name_en": "Main Dishes / Grill",
+      "name_he": "מנות עיקריות / גריל",
+      "icon": "flame",
+      "visible": true,
+      "items": [
+        {
+          "id": "mixed-grill-4",
+          "name_ar": "بلاطة مشكل لأربعة أشخاص",
+          "name_en": "Mixed Grill Platter for 4",
+          "name_he": "מגש בשרים מעורב ל-4 אנשים",
+          "description_ar": "شامل بلاطة مشكل لشخصين + سلطة",
+          "description_en": "Includes Mixed Grill Platter for 2 + Salad",
+          "description_he": "כולל מגש בשרים מעורב ל-2 אנשים + סלט",
+          "price": 500,
+          "tag": "sharing",
+          "visible": true
+        },
+        {
+          "id": "mixed-grill-2",
+          "name_ar": "بلاطة مشكل لشخصين",
+          "name_en": "Mixed Grill Platter for 2",
+          "name_he": "מגש בשרים מעורב ל-2 אנשים",
+          "description_ar": "شامل سلطة",
+          "description_en": "Includes Salad",
+          "description_he": "כולל סלט",
+          "price": 300,
+          "tag": "sharing",
+          "visible": true
+        },
+        {
+          "id": "lamb-skewers-kg",
+          "name_ar": "كيلو سياخ خروف",
+          "name_en": "1 kg Lamb Skewers",
+          "name_he": "שיפודי טלה 1 ק”ג",
+          "description_ar": "شامل سلطة",
+          "description_en": "Includes Salad",
+          "description_he": "כולל סלט",
+          "price": 300,
+          "visible": true
+        },
+        {
+          "id": "entrecote",
+          "name_ar": "انتريكوت",
+          "name_en": "Entrecôte",
+          "name_he": "אנטריקוט",
+          "description_ar": "300 غرام",
+          "description_en": "300g",
+          "description_he": "300 גרם",
+          "price": 119,
+          "tag": "signature",
+          "visible": true
+        },
+        {
+          "id": "entrecote-angus",
+          "name_ar": "انتريكوت بلاك أنجوس",
+          "name_en": "Black Angus Entrecôte",
+          "name_he": "אנטריקוט בלאק אנגוס",
+          "description_ar": "300 غرام",
+          "description_en": "300g",
+          "description_he": "300 גרם",
+          "price": 150,
+          "visible": true
+        },
+        {
+          "id": "veal-fillet",
+          "name_ar": "فيليه عجل",
+          "name_en": "Veal Fillet",
+          "name_he": "פילה עגל",
+          "price": 119,
+          "visible": true
+        },
+        {
+          "id": "veal-fillet-angus",
+          "name_ar": "فيليه عجل بلاك أنجوس",
+          "name_en": "Black Angus Veal Fillet",
+          "name_he": "פילה עגל בלאק אנגוס",
+          "price": 139,
+          "visible": true
+        },
+        {
+          "id": "sirloin",
+          "name_ar": "ستيك سينتا",
+          "name_en": "Sirloin Steak",
+          "name_he": "סטייק סינטה",
+          "price": 110,
+          "visible": true
+        },
+        {
+          "id": "sirloin-angus",
+          "name_ar": "ستيك سينتا بلاك أنجوس",
+          "name_en": "Black Angus Sirloin Steak",
+          "name_he": "סטייק סינטה בלאק אנגוס",
+          "price": 129,
+          "visible": true
+        },
+        {
+          "id": "veal-t-bone",
+          "name_ar": "تي بون عجل",
+          "name_en": "Veal T-Bone",
+          "name_he": "טי-בון עגל",
+          "price": 220,
+          "visible": true
+        },
+        {
+          "id": "lamb-ribs",
+          "name_ar": "ضلاع خروف",
+          "name_en": "Lamb Ribs",
+          "name_he": "צלעות טלה",
+          "price": 110,
+          "visible": true
+        },
+        {
+          "id": "lamb-t-bone",
+          "name_ar": "تي بون خروف",
+          "name_en": "Lamb T-Bone",
+          "name_he": "טי-בון טלה",
+          "price": 99,
+          "visible": true
+        },
+        {
+          "id": "lamb-skewers",
+          "name_ar": "شياش خروف",
+          "name_en": "Lamb Skewers",
+          "name_he": "שיפודי טלה",
+          "price": 99,
+          "visible": true
+        },
+        {
+          "id": "brigitte-grills",
+          "name_ar": "وجبة بريجيت غريلز",
+          "name_en": "Brigitte Grills Meal",
+          "name_he": "מנת בריג’יט גרילס",
+          "price": 69,
+          "visible": true
+        }
+      ]
+    },
+    {
+      "id": "pasta",
+      "name_ar": "الباستا",
+      "name_en": "Pasta",
+      "name_he": "פסטות",
+      "icon": "pasta",
+      "visible": true,
+      "items": [
+        {
+          "id": "fettuccine",
+          "name_ar": "فوتوتشيني",
+          "name_en": "Fettuccine",
+          "name_he": "פטוצ’יני",
+          "price": 68,
+          "visible": true
+        },
+        {
+          "id": "fettuccine-chicken",
+          "name_ar": "فوتوتشيني صدر دجاج",
+          "name_en": "Fettuccine with Chicken Breast",
+          "name_he": "פטוצ’יני עם חזה עוף",
+          "price": 89,
+          "visible": true
+        },
+        {
+          "id": "fettuccine-seafood",
+          "name_ar": "فوتوتشيني فواكه بحر",
+          "name_en": "Seafood Fettuccine",
+          "name_he": "פטוצ’יני פירות ים",
+          "price": 110,
+          "tag": "popular",
+          "visible": true
+        },
+        {
+          "id": "ravioli-cheese",
+          "name_ar": "رافيولي جبنة",
+          "name_en": "Cheese Ravioli",
+          "name_he": "רביולי גבינות",
+          "price": 69,
+          "visible": true
+        },
+        {
+          "id": "ravioli-potato",
+          "name_ar": "رافيولي بطاطا",
+          "name_en": "Potato Ravioli",
+          "name_he": "רביולי תפוחי אדמה",
+          "price": 69,
+          "visible": true
+        }
+      ]
+    },
+    {
+      "id": "chicken-burgers",
+      "name_ar": "الدجاج والبرغر",
+      "name_en": "Chicken & Burgers",
+      "name_he": "עוף והמבורגרים",
+      "icon": "burger",
+      "visible": true,
+      "items": [
+        {
+          "id": "chicken-breast",
+          "name_ar": "وجبة صدر دجاج",
+          "name_en": "Chicken Breast Meal",
+          "name_he": "מנת חזה עוף",
+          "price": 69,
+          "visible": true
+        },
+        {
+          "id": "burger-200g",
+          "name_ar": "برجر 200 غرام مع شيبس",
+          "name_en": "200g Burger with Fries",
+          "name_he": "המבורגר 200 גרם עם צ’יפס",
+          "price": 59,
+          "tag": "popular",
+          "visible": true
+        }
+      ]
+    },
+    {
+      "id": "seafood",
+      "name_ar": "الأسماك والمأكولات البحرية",
+      "name_en": "Fish & Seafood",
+      "name_he": "דגים ופירות ים",
+      "icon": "fish",
+      "visible": true,
+      "items": [
+        {
+          "id": "fried-shrimp",
+          "name_ar": "قريدس مقلي",
+          "name_en": "Fried Shrimp",
+          "name_he": "שרימפס מטוגן",
+          "price": 89,
+          "visible": true
+        },
+        {
+          "id": "cooked-shrimp",
+          "name_ar": "قريدس مطبوخ",
+          "name_en": "Cooked Shrimp",
+          "name_he": "שרימפס מבושל",
+          "price": 89,
+          "visible": true
+        },
+        {
+          "id": "calamari",
+          "name_ar": "كلماري",
+          "name_en": "Calamari",
+          "name_he": "קלמארי",
+          "price": 89,
+          "visible": true
+        },
+        {
+          "id": "ajaj-fish",
+          "name_ar": "سمك أجاج",
+          "name_en": "Ajaj Fish",
+          "name_he": "דג אג’אג’",
+          "price": 89,
+          "visible": true
+        }
+      ]
+    },
+    {
+      "id": "kids",
+      "name_ar": "وجبات الأطفال",
+      "name_en": "Kids’ Meals",
+      "name_he": "מנות ילדים",
+      "icon": "kids",
+      "visible": true,
+      "items": [
+        {
+          "id": "kids-chicken-wrap",
+          "name_ar": "لفة صدر دجاج",
+          "name_en": "Chicken Breast Wrap",
+          "name_he": "לאפה עם חזה עוף",
+          "price": 49,
+          "visible": true
+        },
+        {
+          "id": "kids-burger",
+          "name_ar": "برجر مع شيبس",
+          "name_en": "Burger with Fries",
+          "name_he": "המבורגר עם צ’יפס",
+          "price": 49,
+          "visible": true
+        },
+        {
+          "id": "schnitzel",
+          "name_ar": "شنيتسل مع شيبس",
+          "name_en": "Schnitzel with Fries",
+          "name_he": "שניצל עם צ’יפס",
+          "price": 49,
+          "visible": true
+        }
+      ]
+    },
+    {
+      "id": "burger-addons",
+      "name_ar": "إضافات البرجر",
+      "name_en": "Burger Add-ons",
+      "name_he": "תוספות להמבורגר",
+      "icon": "addons",
+      "visible": true,
+      "items": [
+        {
+          "id": "onion-rings",
+          "name_ar": "حلقات بصل",
+          "name_en": "Onion Rings",
+          "name_he": "טבעות בצל",
+          "price": 10,
+          "visible": true
+        },
+        {
+          "id": "cheddar",
+          "name_ar": "جبنة شيدر",
+          "name_en": "Cheddar Cheese",
+          "name_he": "גבינת צ’דר",
+          "price": 10,
+          "visible": true
+        },
+        {
+          "id": "potato-balls",
+          "name_ar": "كرات بطاطا مقرمشة",
+          "name_en": "Crispy Potato Balls",
+          "name_he": "כדורי תפוחי אדמה קריספיים",
+          "price": 10,
+          "visible": true
+        },
+        {
+          "id": "truffles",
+          "name_ar": "فقع مع صوص",
+          "name_en": "Truffles with Sauce",
+          "name_he": "כמהין ברוטב",
+          "price": 10,
+          "visible": true
+        },
+        {
+          "id": "fried-onions",
+          "name_ar": "بصل مقلي",
+          "name_en": "Fried Onions",
+          "name_he": "בצל מטוגן",
+          "price": 7,
+          "visible": true
+        }
+      ]
+    },
+    {
+      "id": "drinks",
+      "name_ar": "المشروبات",
+      "name_en": "Drinks",
+      "name_he": "משקאות",
+      "icon": "drink",
+      "visible": true,
+      "items": [
+        {
+          "id": "cola",
+          "name_ar": "كولا",
+          "name_en": "Cola",
+          "name_he": "קולה",
+          "price": 12,
+          "visible": true
+        },
+        {
+          "id": "cola-zero",
+          "name_ar": "كولا زيرو",
+          "name_en": "Cola Zero",
+          "name_he": "קולה זירו",
+          "price": 12,
+          "visible": true
+        },
+        {
+          "id": "sprite",
+          "name_ar": "سبرايت",
+          "name_en": "Sprite",
+          "name_he": "ספרייט",
+          "price": 12,
+          "visible": true
+        },
+        {
+          "id": "xl",
+          "name_ar": "إكس إل",
+          "name_en": "XL",
+          "name_he": "XL",
+          "price": 15,
+          "visible": true
+        },
+        {
+          "id": "xl-ten",
+          "name_ar": "إكس إل تين",
+          "name_en": "XL Ten",
+          "name_he": "XL Ten",
+          "price": 15,
+          "visible": true
+        },
+        {
+          "id": "fanta",
+          "name_ar": "فانتا",
+          "name_en": "Fanta",
+          "name_he": "פנטה",
+          "price": 12,
+          "visible": true
+        },
+        {
+          "id": "blue",
+          "name_ar": "بلو",
+          "name_en": "Blue",
+          "name_he": "בלו",
+          "price": 15,
+          "visible": true
+        },
+        {
+          "id": "soda",
+          "name_ar": "صودا",
+          "name_en": "Soda",
+          "name_he": "סודה",
+          "price": 10,
+          "visible": true
+        },
+        {
+          "id": "water",
+          "name_ar": "مياه معدنية",
+          "name_en": "Water",
+          "name_he": "מים",
+          "price": 10,
+          "visible": true
+        },
+        {
+          "id": "large-orange",
+          "name_ar": "عصير برتقال كبير",
+          "name_en": "Large Orange Juice",
+          "name_he": "מיץ תפוזים גדול",
+          "price": 25,
+          "visible": true
+        },
+        {
+          "id": "large-lemonade",
+          "name_ar": "ليمونادة كبيرة",
+          "name_en": "Large Lemonade",
+          "name_he": "לימונדה גדולה",
+          "price": 25,
+          "visible": true
+        },
+        {
+          "id": "large-cola",
+          "name_ar": "كولا كبير",
+          "name_en": "Large Cola",
+          "name_he": "קולה גדול",
+          "price": 22,
+          "visible": true
+        },
+        {
+          "id": "large-cola-zero",
+          "name_ar": "كولا زيرو كبير",
+          "name_en": "Large Cola Zero",
+          "name_he": "קולה זירו גדול",
+          "price": 22,
+          "visible": true
+        }
+      ]
+    }
+  ]
+}
